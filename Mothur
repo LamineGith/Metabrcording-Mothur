@@ -5,7 +5,7 @@
 
 ### Definition des répertoires de travail ###
 # ——> REMPLIR LES xxxxx
-`set.dir(input=/xxx/xxx/xxx/xxx)`
+set.dir(input=/xxx/xxx/xxx/xxx)
 set.dir(output=/xxx/xxx/xxx/xxx)
 # Parfois ça ne fonctionne pas correctement...
 # Placer le programme Mothur dans le meme repertoire que vos donnees
